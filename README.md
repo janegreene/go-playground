@@ -2,3 +2,4 @@
 
 ideas:
 ruby codecademy
+get it together
