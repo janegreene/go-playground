@@ -1,6 +1,8 @@
 # private_practice
 
 ideas:
+
+fhtrtht
 ruby codecademy
 get it together
 for real
