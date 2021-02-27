@@ -1,4 +1,0 @@
-# private_practice
-
-ideas:
-
